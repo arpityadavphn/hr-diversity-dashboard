@@ -10,7 +10,7 @@ In this Project, I dive into the Dataset of Human resources to figure out Major 
 - Age demographics are skewed toward younger employees (20-39).
 - Certain departments show extreme gender dominance.
 - Promotion practices disproportionately favor male employees
-- 
+  
 **Recommendations:**
 - Introduce policies to address departmental gender imbalance.
 - Create equitable promotion processes.
@@ -50,11 +50,11 @@ Human Resources of Our organisation is highly into diversity and inclusion, They
   - Sales: Male-dominated (2:1 ratio).
   - Internal Services: Male-dominated (2:1 ratio).
   - HR: Female-dominated (1:2 ratio).
-    
-![Bar](https://github.com/user-attachments/assets/22299385-874f-4d39-b936-995baca97f77)
 
 **Inclusive Department:**
   - Operations: Fair and inclusive with no significant gender disparity.
+  - 
+![Bar](https://github.com/user-attachments/assets/22299385-874f-4d39-b936-995baca97f77)
 
 **Key Concern:**
   - Most employees are concentrated in Operations, Sales & Marketing, and Internal Services.
@@ -89,7 +89,7 @@ Human Resources of Our organisation is highly into diversity and inclusion, They
 
 **Departmental Disparities:**
   - Clear gender stereotypes in departments like Finance, Strategy, Sales, and HR.
-  - 
+    
 **Promotion Inequity:**
 - Male employees are significantly more likely to be promoted compared to female employees.
 
@@ -107,10 +107,13 @@ Human Resources of Our organisation is highly into diversity and inclusion, They
 **Monitor and Review Diversity Metrics:**
 
 - Regularly evaluate gender, age, and promotion metrics to ensure progress.
+  
+![Dashboard](https://github.com/user-attachments/assets/03a4f700-ec71-4859-a4b7-188a403cc4e3)
 
 ### Conclusion
 The report highlights critical disparities in gender representation across departments and promotions. While location and overall gender ratios are satisfactory, targeted interventions are needed to improve inclusion within departments and leadership. Implementing these recommendations will strengthen the organization’s commitment to diversity and inclusion.
 
 **Tools Used:** Power BI, Excel
-[**Dashboard Link**] (https://github.com/arpityadavphn/hr-diversity-dashboard/blob/main/Dashboard.pbix)
+
+![**Dashboard Link**](https://github.com/arpityadavphn/hr-diversity-dashboard/blob/main/Dashboard.pbix)
 
